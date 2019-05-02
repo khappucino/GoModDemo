@@ -1,4 +1,4 @@
-module github.com/nordstrom/GoModDemo
+module github.com/khappucino/GoModDemo
 
 go 1.12
 
